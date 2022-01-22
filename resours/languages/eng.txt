@@ -1,0 +1,45 @@
+Name the fallen human.
+Select this name?
+[PRESS Z OR ENTER]
+——Instructions——
+[Z or ENTER] — Confirm
+[X or SHIFT] — Cancel
+[C or CTRL] — Menu
+[F4] - Fullscreen
+[Hold ESC.] — Quit
+When HP is 0, you lose.
+GOOD ENDING/Complete/game to/good ending
+BAD ENDING/Complete/game to/genocide/ending
+2STRONG IN'SPIRIT/Finish/first phase/without/damage
+ATTENTIVE/Fiend/the secret/button
+2Impossible'is possible/Finish the/game/without/damage
+2PLEASANT'SURPRISE/Go through/Sans's/secret/attack
+2CAKE IS'FALSE!/The taste/of the/holiday
+NO!/Don't stop,/even if/it seems/impossible
+SOON...
+exiting
+exiting.
+exiting..
+exiting...
+Back
+Music
+Language
+Low details
+Full reset
+Play
+Settings
+Achievements
+Extras
+Quit
+Begin game
+No
+Yes
+Backspace
+Done
+LV
+HP
+KR
+it's a beautiful day=outside.
+birds are sining.=flowers are blooming...
+on days like this.=kids like you...
+SHOOLD BE BOORNING=IN HELL.
